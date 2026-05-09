@@ -11,8 +11,6 @@
 
 🔷 C#
 
-⚙️ C
-
 ## 📚 Actualmente
 Construyendo proyectos
 

@@ -34,17 +34,9 @@ Electronic Engineering student ⚡ passionate about software development, backen
 <div align="center">
 
 <a href="https://github.com/Jhozzdev/github-readme-stats">
-    <img 
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhozzdev&hide_title=true&langs_count=10&hide_border=true&theme=github_dark&layout=compact"
-    />
-</a>
-
-<a href="https://github.com/Jhozzdev/github-readme-stats">
-    <img 
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Jhozzdev&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=github_dark"
-    />
+ <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhozzdev&layout=compact&theme=github_dark"
+/>
 </a>
 
 </div>
@@ -75,7 +67,6 @@ Electronic Engineering student ⚡ passionate about software development, backen
 </div>
 
 
-
 <h2 align="left">Connect With Me</h2>
 
 <p align="left">
@@ -88,9 +79,6 @@ Electronic Engineering student ⚡ passionate about software development, backen
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </p>
 

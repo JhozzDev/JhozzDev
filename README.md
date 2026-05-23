@@ -30,12 +30,16 @@
 
 <div align="center">
 
-<br>
-
-<div align="center">
+<a href="https://github.com/jgphilpott/github-readme-stats">
+    <img 
+        height="165"
+        src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=Jhozzdev&langs_count=10&hide_border=true&theme=dark&bg_color=010409&title_color=ffffff&text_color=ffffff&layout=compact"
+    />
+</a>
 
 <a href="https://github.com/Jhozzdev/github-readme-streak-stats">
     <img 
+        height="165"
         src="https://streak-stats.demolab.com?user=Jhozzdev&theme=github-dark&hide_border=true"
     />
 </a>
@@ -44,7 +48,9 @@
 
 <br>
 
-<br>
+</p>
+
+
 
 <div align="center">
 

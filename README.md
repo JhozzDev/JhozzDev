@@ -1,8 +1,12 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jhozzdev" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9B5DE5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jhozzdev" />
 </div>
 
 <br>
+
+<p align="center">
+  <img src="Logo.png" width="80%" />
+</p>
 
 <h2 align="center">Skills</h2>
 
@@ -13,10 +17,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-<br>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -26,6 +28,16 @@
 </p>
 
 <br>
+
+
+<p align="center">
+  <a href="https://github.com/JhozzDev/International-RadioInc">
+    <img src="https://img.shields.io/badge/PROJECT-International_RadioInc-8A2BE2?style=for-the-badge&logo=github" />
+  </a><br>
+     <a href="https://github.com/JhozzDev/Detector-engine">
+    <img src="https://img.shields.io/badge/PROJECT-Detector_Engine-8A2BE2?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 
 <div align="center">
@@ -57,7 +69,7 @@
 <a href="https://github.com/Jhozzdev/github-readme-activity-graph">
     <img 
         width="95%"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Jhozzdev&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Jhozzdev&theme=github-compact&area=true&hide_border=false&custom_title=Past%20Months%20Activity"
     />
 </a>
 
@@ -72,9 +84,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/Jhozzdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 
 </p>

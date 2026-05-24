@@ -51,7 +51,7 @@
 <a href="https://github.com/Jhozzdev/github-readme-streak-stats">
     <img 
         height="165"
-        src="https://streak-stats.demolab.com?user=Jhozzdev&theme=github-dark&hide_border=true"
+        src="https://streak-stats.demolab.com/?user=Jhozzdev&theme=github-dark&hide_border=true"
     />
 </a>
 

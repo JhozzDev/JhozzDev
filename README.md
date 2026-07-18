@@ -20,55 +20,6 @@ I'm constantly learning new technologies and creating projects that challenge my
 
 ---
 
-## 🔨 Languages & Tools
-
-### Languages
-
-* C#
-* Python
-* JavaScript
-* TypeScript
-* C
-* SQL
-* HTML5
-* CSS3
-
-### Backend
-
-* ASP.NET Core
-* FastAPI
-* Entity Framework Core
-* REST APIs
-
-### Frontend
-
-* WPF
-* React
-* Next.js
-* Tailwind CSS
-
-### Databases
-
-* PostgreSQL
-* SQL Server
-* SQLite
-
-### Machine Learning & Data
-
-* Scikit-learn
-* Pandas
-* NumPy
-* OpenCV
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Visual Studio
-* VS Code
-* Postman
-
 ## 📊 GitHub Stats
 
 <p align="center">

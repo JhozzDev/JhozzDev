@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cristian Jhossander Hiciano!
+# 👋 Howdy, I'm Cristian Jhossander Hiciano!
 
 
 I'm a **Electronic Engineering student** passionate about building applications, automation, and artificial intelligence. I enjoy solving real-world problems by combining software development with engineering concepts.

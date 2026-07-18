@@ -17,19 +17,6 @@ I'm constantly learning new technologies and creating projects that challenge my
 * 🌎   Based in **Dominican Republic**
 * ⚡   Fun fact: I enjoy transforming complex engineering ideas into practical software solutions.
 
-re/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-
----
-
-### 📊 Github Stats
-<a href='https://github.com/JhozzDev/github-stats-transparent'>
-  
-[![Jhoss' GitHub stats](https://github-readme-stats.vercel.app/api?username=JhozzDev)](https://github.com/JhozzDev/github-readme-stats)
-
-</a>
----
 
 ## 📈 Current Goals
 

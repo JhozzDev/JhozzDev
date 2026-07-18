@@ -10,7 +10,7 @@ I'm constantly learning new technologies and creating projects that challenge my
 ## 🧐 More About Me
 
 * 🎓   Electronic Engineering student at **Universidad Dominicana O&M**
-* 💼   Looking for my first opportunity as a **Developer**
+* 💼   Looking for my first opportunity as a **Junior Developer**
 * 🚀   Currently building **Podcastner**, a desktop podcast player in **WPF & C#**
 * ⚙️   Interested in **Backend Development, Industrial Automation, AI, and Data Engineering**
 * 🌱   Currently learning **ASP.NET Core, Entity Framework Core, PostgreSQL, Docker, and Software Architecture**

@@ -1,48 +1,96 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9B5DE5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jhozzdev" />
-</div>
+# 👋 Hi, I'm Cristian Jhossander Hiciano!
 
-<br>
+
+I'm a **Electronic Engineering student** passionate about building applications, automation, and artificial intelligence. I enjoy solving real-world problems by combining software development with engineering concepts.
+
+I'm constantly learning new technologies and creating projects that challenge my skills while helping me grow as a software engineer.
+
+---
+
+## 🧐 More About Me
+
+* 🎓   Electronic Engineering student at **Universidad Dominicana O&M**
+* 💼   Looking for my first opportunity as a **Developer**
+* 🚀   Currently building **Podcastner**, a desktop podcast player in **WPF & C#**
+* ⚙️   Interested in **Backend Development, Industrial Automation, AI, and Data Engineering**
+* 🌱   Currently learning **ASP.NET Core, Entity Framework Core, PostgreSQL, Docker, and Software Architecture**
+* 📫   Reach me at **[jhossanderh@gmail.com](mailto:jhossanderh@gmail.com)**
+* 🌎   Based in **Dominican Republic**
+* ⚡   Fun fact: I enjoy transforming complex engineering ideas into practical software solutions.
+
+---
+
+## 🔨 Languages & Tools
+
+### Languages
+
+* C#
+* Python
+* JavaScript
+* TypeScript
+* C
+* SQL
+* HTML5
+* CSS3
+
+### Backend
+
+* ASP.NET Core
+* FastAPI
+* Entity Framework Core
+* REST APIs
+
+### Frontend
+
+* WPF
+* React
+* Next.js
+* Tailwind CSS
+
+### Databases
+
+* PostgreSQL
+* SQL Server
+* SQLite
+
+### Machine Learning & Data
+
+* Scikit-learn
+* Pandas
+* NumPy
+* OpenCV
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Visual Studio
+* VS Code
+* Postman
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="Logo.png" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhozzDev&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhozzDev&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-<h2 align="center">Skills</h2>
+---
 
-<p align="center">
+## 📈 Current Goals
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+*  Become a Electronic's Engineer
+*  Deepen my knowledge of Artificial Intelligence
+*  Combine Software Engineering with Industrial Automation
 
-</p>
+---
 
-<br>
+## 🤝 Let's Connect!
 
+If you're interested in collaborating on projects or automation systems, feel free to reach out.
 
-<p align="center">
-  <a href="https://github.com/JhozzDev/International-RadioInc">
-    <img src="https://img.shields.io/badge/PROJECT-International_RadioInc-8A2BE2?style=for-the-badge&logo=github" />
-  </a><br>
-     <a href="https://github.com/JhozzDev/Detector-engine">
-    <img src="https://img.shields.io/badge/PROJECT-Detector_Engine-8A2BE2?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-
-<br>
-
-</p>
-
+⭐ Don't forget to check out my repositories!
 
 
 

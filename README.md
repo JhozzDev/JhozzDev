@@ -3,7 +3,7 @@
 
 I'm a **Electronic Engineering student** passionate about building applications, automation, and artificial intelligence. I enjoy solving real-world problems by combining software development with engineering concepts.
 
-I'm constantly learning new technologies and creating projects that challenge my skills while helping me grow as a software engineer.
+I'm constantly learning new technologies and creating projects that challenge my skills while helping me grow as an engineer.
 
 ---
 

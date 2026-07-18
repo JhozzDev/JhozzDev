@@ -14,19 +14,19 @@ I'm constantly learning new technologies and creating projects that challenge my
 * 🚀   Currently building **Podcastner**, a desktop podcast player in **WPF & C#**
 * ⚙️   Interested in **Backend Development, Industrial Automation, AI, and Data Engineering**
 * 🌱   Currently learning **ASP.NET Core, Entity Framework Core, PostgreSQL, Docker, and Software Architecture**
-* 📫   Reach me at **[jhossanderh@gmail.com](mailto:jhossanderh@gmail.com)**
 * 🌎   Based in **Dominican Republic**
 * ⚡   Fun fact: I enjoy transforming complex engineering ideas into practical software solutions.
 
----
+re/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-## 📊 GitHub Stats
+<br>
+
+---
 
 ### 📊 Github Stats
 <a href='https://github.com/JhozzDev/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/JhozzDev/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/JhozzDev/github-stats-transparent/output/generated/languages.svg)
+[![Jhoss' GitHub stats](https://github-readme-stats.vercel.app/api?username=JhozzDev)](https://github.com/JhozzDev/github-readme-stats)
 
 </a>
 ---

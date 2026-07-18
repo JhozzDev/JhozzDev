@@ -22,11 +22,13 @@ I'm constantly learning new technologies and creating projects that challenge my
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhozzDev&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhozzDev&layout=compact&theme=tokyonight" height="170"/>
-</p>
+### 📊 Github Stats
+<a href='https://github.com/JhozzDev/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/JhozzDev/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/JhozzDev/github-stats-transparent/output/generated/languages.svg)
 
+</a>
 ---
 
 ## 📈 Current Goals

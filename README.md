@@ -35,20 +35,13 @@
 
 ### [Circuit Tool Analyzer](https://github.com/JhozzDev/CircuitToolAnalyzer)
 A circuit-analysis application built with **C#, ASP.NET Core, and Blazor**. It accepts circuit data through a REST API and calculates node voltages using nodal analysis and Kirchhoff's Current Law (KCL).
-
-**What it demonstrates:** API design, domain modeling, layered architecture, and testing.  
-*Status: in development; generalized multi-node analysis and persistence are planned.*
-
 ### [Inventory Sales API](https://github.com/JhozzDev/InventarySales_API)
 A backend project focused on inventory and sales management. See the repository for its current implementation and setup instructions.
 
 ### [Sistema de Facturación](https://github.com/JhozzDev/Sistema-de-Facturacion)
 A C# / ASP.NET project for managing business data through CRUD modules and SQL Server. The project helped me practice database operations, entity mapping, validation, and application structure.
-
 ### [Detector Engine](https://github.com/JhozzDev/Detector-Engine)
 A monitoring prototype that combines configurable rules with **Isolation Forest** anomaly detection. It provides a FastAPI backend and a Streamlit dashboard using simulated sensor data.
-
-**What it demonstrates:** Python, API development, data processing, machine learning, and testing.
 
 ## 🎯 Current Focus
 
@@ -65,8 +58,3 @@ A monitoring prototype that combines configurable rules with **Isolation Forest*
 
 ---
 
-<div align="center">
-
-*Thanks for visiting my profile! Feel free to explore my repositories and follow my progress.*
-
-</div>

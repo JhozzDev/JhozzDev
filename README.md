@@ -14,16 +14,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm an Electronic Engineering student focused on **backend development with C# and .NET**. I enjoy building practical applications, designing REST APIs, working with relational databases, and solving engineering-related problems through software.
-
-My electronics background also motivates me to explore automation, data analysis, and applied AI. I'm building my skills through personal projects, with a focus on clear architecture, validation, testing, and maintainable code.
-
-- 💼 Looking for my first professional opportunity as a **Junior .NET Developer**
-- 🔧 Interested in REST APIs, SQL, backend architecture, and automated testing
-- ⚡ Interested in the intersection of software, electronics, and automation
-- 🌱 Improving my projects by documenting decisions, testing behavior, and making setup easier to reproduce
 
 ## 🛠️ Technologies
 
